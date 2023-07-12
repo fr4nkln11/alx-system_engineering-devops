@@ -1,2 +1,2 @@
-#!/bin/bash
-echo $(printf "%X\n" "$decimal")
+#!/bin/bas
+printf "%X\n" "$DECIMAL"
